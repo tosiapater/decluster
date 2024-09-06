@@ -21,7 +21,7 @@ Cuda   	  11.8
 
 
 ### Directory Bialystok 
-contains step by step code to perform declusterisation to cluster images contained in clusters directory.
+contains step by step code to perform declusterisation of cluster images contained in clusters directory.
 
 To find the nuclei use segmenthsilempatchesloop.py
 
