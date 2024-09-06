@@ -14,6 +14,8 @@ Keras      2.4
 
 Cuda   	  11.8
 
+Matlab (useful but not mandatory)
+
 
 
 
