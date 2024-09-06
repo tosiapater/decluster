@@ -22,18 +22,19 @@ Cuda   	  11.8
 
 ### Directory Bialystok 
 contains step by step code to perform declusterisation to cluster images contained in clusters directory.
-to find the nuclei use segmenthsilempatchesloop.py
 
-to segment cell based on previously detected nuclei use test_waterSeeded_split_tos.m
+To find the nuclei use segmenthsilempatchesloop.py
 
-to classify the cells run cut_out.py, then colors2classes.py and finally drawresults.py.
+To segment cell based on previously detected nuclei use test_waterSeeded_split_tos.m
+
+To classify the cells run cut_out.py, then colors2classes.py and finally drawresults.py.
 
 
 
 ### Directory Cric 
-contains the segmenting-classifiny pipeline with declustering step.
+contains the segmenting-classifiny pipeline with declustering step fitted to the CRIC dataset.
 
 
 
-
+_________________
 Please contact me if you'll encounter any problems.
