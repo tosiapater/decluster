@@ -7,8 +7,11 @@ Model weights and cluster images used in this code are stored [here](https://clo
 ## Environment
 
 Python     3.9
+
 Tensorflow 2.5
+
 Keras      2.4
+
 Cuda   	  11.8
 
 
@@ -20,7 +23,9 @@ Cuda   	  11.8
 ### Directory Bialystok 
 contains step by step code to perform declusterisation to cluster images contained in clusters directory.
 to find the nuclei use segmenthsilempatchesloop.py
+
 to segment cell based on previously detected nuclei use test_waterSeeded_split_tos.m
+
 to classify the cells run cut_out.py, then colors2classes.py and finally drawresults.py.
 
 
